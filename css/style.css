@@ -1,4 +1,5 @@
 body {
+  height: 100vh;
   background: url('../images/full-rb.jpg');
 }
 
@@ -36,7 +37,6 @@ h2 {
 
 
 .memory-card:active {
-  
   transition: transform 1.5s;
 }
 
